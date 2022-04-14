@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-       <img src=""components/free-mtn-dew-code-red-coupon.gif>
+       <img src=""components/free-mtn-dew-code-red-coupon.gif />
       </main>
 
       <Footer />
