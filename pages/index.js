@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>free mtn dew code red coupons</title>
+        <link rel="icon" href="/SAY-CHEESE.ico" />
       </Head>
 
       <main>
