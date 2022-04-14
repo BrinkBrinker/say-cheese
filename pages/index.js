@@ -11,10 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+       <img src=""components/free-mtn-dew-code-red-coupon.gif>
       </main>
 
       <Footer />
