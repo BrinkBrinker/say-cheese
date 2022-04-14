@@ -13,8 +13,6 @@ export default function Home() {
       <main>
        <img src="https://github.com/BrinkBrinker/say-cheese/blob/main/components/free%20mtn%20dew%20code%20red%20coupon.gif?raw=true" />
       </main>
-
-      <Footer />
     </div>
   )
 }
